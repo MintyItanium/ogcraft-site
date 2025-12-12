@@ -16,7 +16,7 @@
 | `/rules`                                     | Display the server rules.                                                                         |
 | `/ref [Player that refered you]`             | If you are shown the server by someone, use this command and you'll both get a reward             |
 | `/graves` (Disabled)                         | Will show you any active graves you have                                                          |
-| `/map`                                       | Link to our web map.                                                                              |
+| `/map`                                       | Link to our live web map.                                                                         |
 | `/kit [kitname]`                             | Claim an available kit.                                                                           |
 | `/ar time`                                   | Shows your playtime (Sometimes it errors and running the command again will work)                 |
 | `/ar top [daily / weekly / monthly / total]` | Shows the playtime leaderboard                                                                    |
@@ -84,15 +84,15 @@
 ## Communication
 
 
-| Command                         | Description                                                                             |
-| --------------------------------- | ----------------------------------------------------------------------------------------- |
-| `/msg [player] [message]`       | Send a private message.                                                                 |
-| `/r [message]`                  | Reply to the last private message you received.                                         |
-| `/discord`                      | Display the invite link to our Discord server.                                          |
-| `/mail send [player] [message]` | Send a player mail, even when offline.                                                  |
-| `/mail read`                    | Read your mail.                                                                         |
-| `/mail clear`                   | Empty your mailbox.                                                                     |
-| `/nick`                         | Rename what you show up in chat as, see the [colors page](/docs/Wiki/Chat%20Colors.md). |
+| Command                         | Description                                                                            |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| `/msg [player] [message]`       | Send a private message.                                                                |
+| `/r [message]`                  | Reply to the last private message you received.                                        |
+| `/discord`                      | Display the invite link to our Discord server.                                         |
+| `/mail send [player] [message]` | Send a player mail, even when offline.                                                 |
+| `/mail read`                    | Read your mail.                                                                        |
+| `/mail clear`                   | Empty your mailbox.                                                                    |
+| `/nick`                         | Rename what you show up in chat as, see the[colors page](/docs/Wiki/Chat%20Colors.md). |
 
 ---
 
@@ -106,7 +106,8 @@
 | `/sit`                | Sit down on any surface                          |
 | `/crawl`              | Crawl like your under a trapdoor                 |
 | `/hat`                | Wear any item on your head                       |
-| `[inv]`               | Shows your inventory contents                    |
+| `[inv]`               | Shows in chat your inventory contents            |
 | `[hand]`              | Shows the item in your hand                      |
+| `[enderchest]`        | Shows in chat your ender chest contents          |
 | `/ToS`                | Shows a link to our TOS                          |
 | `/apply`              | Gives a link to our staff applications           |
