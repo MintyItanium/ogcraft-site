@@ -27,7 +27,7 @@ These types of client-side mods are allowed because they improve the experience 
 
 - **Performance Mods**
   - Sodium, Lithium, OptiFine, etc.
-- **Visual Mods**t
+- **Visual Mods**
   - Shaders, BetterF3, Dynamic Surroundings, or HUD customizers.
 - **Minimaps (with restrictions)**
   - Journeymap, Xaero’s Minimap (as long as cave mode and entity radar are turned **off**).
