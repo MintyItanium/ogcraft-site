@@ -7,7 +7,7 @@
 - Staff Members
 - FAQ
 ## Announcements
-- map 7 reset
+-  map 7 reset
 -  map 6 reset
 -  map 5 reset
 -  map 4 reset
