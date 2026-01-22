@@ -109,5 +109,5 @@
 | `[inv]`               | Shows in chat your inventory contents            |
 | `[hand]`              | Shows the item in your hand                      |
 | `[enderchest]`        | Shows in chat your ender chest contents          |
-| `/ToS`                | Shows a link to our TOS                          |
+| `/ToS`                | Shows a link to our Terms of service                          |
 | `/apply`              | Gives a link to our staff applications           |
