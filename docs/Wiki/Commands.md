@@ -15,7 +15,7 @@
 | :--------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `/rules`                                     | Display the server rules.                                                                         |
 | `/ref [Player that refered you]`             | If you are shown the server by someone, use this command and you'll both get a reward             |
-| `/map`                                       | [Link to our live web map.](http://map.ogcraft.org:8880)                                          |
+| `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                          |
 | `/kit [kitname]`                             | Claim an available kit.                                                                           |
 | `/ar time`                                   | Shows your playtime (Sometimes it errors and running the command again will work)                 |
 | `/ar top [daily / weekly / monthly / total]` | Shows the playtime leaderboard                                                                    |
