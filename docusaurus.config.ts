@@ -85,7 +85,13 @@ const config = {
           className: 'navbarDiscord',
         },
         {
-          href: 'https://github.com/Roman-Emperor-42/ogcraft-site',
+          href: 'https://github.com/orgs/OGCraftMC/projects/2',
+          label: 'Bug Tracker',
+          position: 'right',
+          className: 'navbarDiscord',
+        },
+        {
+          href: 'https://github.com/OGCraftMC/ogcraft-site',
           label: 'GitHub',
           position: 'right',
         },
