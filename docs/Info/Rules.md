@@ -78,7 +78,8 @@ sidebar_position: 0
 17. **No Dating/Relationships**  
     Since we have younger players (some as young as 9) who aren’t yet aware of online safety risks, we’re making it a rule that these kinds of conversations or interactions aren’t allowed. This helps keep the server safe and fun for everyone.
 
-18. Killing players without consent/permission will resut in punishment. We are a a toggle PvP server, just because they have PvP turned on doesn't mean players are consenting to be killed.
+18. **Toggle PVP Only**
+    Killing players without consent/permission will resut in punishment. We are a a toggle PvP server, just because they have PvP turned on doesn't mean players are consenting to be killed.
 
 ---
 
