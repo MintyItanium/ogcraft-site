@@ -31,11 +31,11 @@ This page is under construction as we revise permissions
 All supporter ranks receive **Emerald**-level permissions.
 :::
 
-The server costs **$2.67/day**. All support is greatly appreciated! 
+The server costs **£2.70/day**. All support is greatly appreciated! 
 
 | Feature             | Allay  | Golem  | Wither |
 |---------------------|:------:|:------:|:------:|
-| **Monthly Cost**    | $3     | $7     | $10    |
+| **Monthly Cost**    | £2.50     | £6     | £9    |
 | **Homes**           | 7      | 10     | 20     |
 | **Player Vaults**   | 1      | 4      | 6      |
 | **/top**            | —      | ✓      | ✓      |
