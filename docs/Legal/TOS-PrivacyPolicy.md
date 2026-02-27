@@ -1,154 +1,157 @@
 ---
-title: Terms of Service / Privacy Policy
+title: OGCraft Terms of Service & Privacy Policy
 ---
 
-# Terms of Service – OGCraft  
-**Updated 29th March 2025**
+# OGCraft Terms & Privacy Policy  
+**Updated 27th February 2026**
 
-## Definitions
+Welcome to OGCraft! By playing on our servers, using our Discord, or donating, you agree to these rules and policies.
 
-- **OGCraft** (“staff”, “we”, “us”, “our”): OGCraft, represented by the OGCraft Founder Team.  
-- **Supporter / member / user / player** (“you”, “your”): Site visitors and any users of our Services.  
-- **Service / Services**: Any service OGCraft offers (Minecraft Servers, Websites, Forums, etc.).  
-- **OGCraft Minecraft**: Our servers at [play.OGCraft.org](https://play.OGCraft.org) and [bedrock.OGCraft.org](https://bedrock.OGCraft.org) (not affiliated with Mojang AB).  
-- **OGCraft Discord Server**: Public Discord at [https://ogcraft.org/discord](https://ogcraft.org/discord).  
-- **Rules / Server Rules**: Accessible in-game via `/rules` and `/rules 2`.  
-- **Store**: Our online store at [https://store.ogcraft.org/](https://store.ogcraft.org/).
+---
 
-## Application of Server Rules
+## 1. Who Runs OGCraft
 
-All members agree to be bound by the Minecraft EULA and OGCraft’s Rules while using any of our Services (Minecraft server, Discord server, etc.). Violations may result in temporary or permanent access restriction. You will have a fair opportunity to have concerns reviewed.
+- **Sam Jowett/RedstoneSam** is the sole legal owner and makes all official decisions.  
+- **Caleb & Collin** are volunteers/administrators:  
+  - They give advice and manage day-to-day tasks  
+  - They have no legal ownership or liability  
+- The title **“Founder”** is public only and does not mean ownership.
 
-## Access to OGCraft and Our Services
+---
 
-- **Free access** to all OGCraft Minecraft servers and associated services.  
-- **Supporter ranks** are voluntary thank-you gifts for donations—**not** goods or services.  
-  - Issued voluntarily; non-refundable; non-chargebackable.  
-  - Time-limited: 30 days per donation.  
-  - Current ranks (as of 29 March 2025): Allay, Golem, Wither. See the store for updates.  
-  - OGCraft may deny, modify, suspend, or revoke supporter privileges at any time, without warning or compensation.
+## 2. Payments & Ranks
 
-## Legitimacy of Payments
+- All payments are in **GBP (£)**.  
+- Supporter Ranks are **cosmetic/quality of life only**:  
+  - Cannot be sold, traded, or bought with in-game currency/items  
+  - Give **no monetary value** or moderation perks  
+- Ranks are applied **automatically after payment**.  
+- Service starts **immediately**; if OGCraft makes an error, you get **extra 10% time**.  
+- Custom donations follow the same **non-refund, non-chargeback rules**.
 
-- Payments must be authorized by the account holder/cardholder.  
-- Unauthorized payments may result in immediate removal of privileges.
+---
 
-## Payment Values
+## 3. Immediate Service
 
-- All values are in **USD**.  
-- International transaction fees charged by your bank/payment provider are your responsibility.
+- By paying, you **request immediate service**.  
+- UK law cooling-off periods **do not apply** once service starts.
 
-## Payment Methods & Process
+---
 
-- Processed via [https://store.ogcraft.org/](https://store.ogcraft.org/) through PayPal.  
-- Enter your exact Minecraft username at checkout (including any Bedrock prefix, e.g. `Bed-`).  
+## 4. Consumer Rights
 
-## Processing Time
+- These Terms **do not remove your statutory rights** under UK law.  
+- You may be entitled to a remedy for poor service under the **Consumer Rights Act 2015**.  
+- Claims must be sent to OGCraft via **official email** with **proof of payment, issue and possible resolution**.
 
-- Ranks applied within **5 minutes**, up to **24 hours**.  
-- If no rank after 24 hours, contact a staff member.
+---
 
-## Refundability & Cancellation
+## 5. Refunds & Maximum Claims
 
-- All donations are **final and non-refundable**.  
-- Cancelling recurring donations stops future charges but does **not** refund the current period.  
-- Donors agree not to dispute or charge back; doing so may result in permanent bans.
+- Payments are generally **non-refundable**.  
+- Canceling recurring payments stops future charges but does **not refund current periods**.  
+- If a claim is valid, the **most you can be compensated** is:  
+  - Payment amount + last 3 months of payments
 
-## Supporter Rank Conditions
+---
 
-Supporter ranks may be acquired by:
+## 6. Liability
 
-1. Donating directly to OGCraft  
-2. Receiving a gifted rank  
-3. Obtaining an in-game voucher (no real-world currency)
+- Total liability is limited to **the last 3 months of payments or statutory minimum**, whichever is greater.  
+- This does not exclude liability for:  
+  - Death or injury caused by negligence  
+  - Fraud  
+  - Other UK-law protections
 
-**Prohibited:** Trading ranks for in-game items, currency, services, or favours.  
-Violations lead to permanent access restriction and privilege removal.
+---
 
-## Authority & Applicable Terms
+## 7. Service Availability
 
-By donating, you confirm that you:
+- Services are provided **as-is and as-available**.  
+- OGCraft may suspend or modify the service without notice.  
+- Not liable for:  
+  - Server resets, corruption, or rollbacks  
+  - Loss of items or data from user error  
+- Our playerbase is **global**.
 
-- Are **18+** or have parental/guardian consent  
-- Have legal authority to enter binding agreements
+---
 
-These Terms (and referenced documents) form the complete agreement between you and OGCraft.
+## 8. Eligibility & Conduct
 
-## Privileges
+- You must be **18+** or have parental consent.  
+- You must use **authorized payment methods**.  
+- Breaking server rules or misusing supporter privileges may result in **bans without refund**.
 
-- Cosmetic or QoL enhancements only—no monetary value.  
-- No preferential treatment in moderation or rule enforcement.  
-- Subject to change or removal without notice.  
-- See each rank’s description on the store for up-to-date details.
+---
 
-## Custom Donation
+## 9. Data Collection
 
-- You may donate without receiving privileges via **“Add days to the server!”**  
-- Custom donations follow the same non-refund and no-chargeback policy.
+We collect only what is needed to run the server safely:
 
-## Server Changes
+- **Minecraft usernames**  
+- **IP addresses** (only logged for server connection; publicly visible if pinged)  
 
-- OGCraft not liable for data loss from resets, corruption, rollbacks, or user error.  
-- Rank benefits will be reinstated where possible for users in good standing.
+We do **not** collect:
 
-## Our Provision of Services
+- Payment card details (PayPal handles these)  
+- Discord IDs beyond public visibility  
 
-- Provided **“as-is”** and **“as-available”**.  
-- No uptime or feature-availability guarantees.  
-- Services may be altered, suspended, or discontinued without notice.
+---
 
-## Privacy Policy
+## 10. Data Usage
 
-- We do not share personal data outside the Admin Team unless legally required.  
-- In a data breach, we will attempt prompt notification of affected users.
+Data is used for:
 
-## Confidential Information
+- Server security & moderation  
+- Technical troubleshooting  
+- Fraud prevention  
 
-- Submitted non-personal information becomes non-confidential unless stated.  
-- We may share material or report safety concerns (e.g. name, IP) to authorities when necessary.
+No personal data is shared beyond what’s legally required or needed to operate the server.
 
-## Other Sites
+---
 
-- Links to external sites are at your own risk; OGCraft is not responsible for third-party content or policies.
+## 11. Data Security
 
-## Other Important Terms
+- Payment data is handled by **PayPal** (access only by Sam Jowett).  
+- Critical accounts use **two-factor authentication**.  
+- PayPal is responsible for its own security; OGCraft is not liable for PayPal breaches.  
+- We use reasonable measures to protect all collected data.
 
-- OGCraft may transfer its rights and obligations under these Terms without notice.  
-- You may not transfer your rights without written consent.  
-- Invalid or unenforceable provisions do not affect the rest of the Terms.  
-- Failure to enforce a right does not waive it.
+---
 
-## Term and Termination
+## 12. Copyright & Content
 
-- OGCraft may suspend or terminate access for any breach or legal violation, with or without notice.  
-- Rejoining with a new identity after a ban is prohibited and may lead to legal action.
+- Do **not upload copyrighted material** without permission.  
+- All content must comply with UK copyright law.  
+- Report infringements via **Discord support ticket** to a Founder.  
+- OGCraft may remove content that violates copyright.
 
-## Copyright Infringements
+---
 
-To report copyright concerns, open a support ticket in our Discord and tag a Founder-role staff member.
+## 13. Other Terms
 
-## Liability
+- Ranks and donations provide **cosmetic/quality of life benefits only**.  
+- OGCraft may transfer rights/obligations without notice.  
+- You cannot transfer your rights without written consent.  
+- Invalid clauses do not affect the rest of the Terms.  
+- Not enforcing a right does not waive it.
 
-To the maximum extent permitted by law, OGCraft is not liable for:
+---
 
-- Loss of profits, business, or revenue  
-- Loss or corruption of data  
-- Indirect, incidental, or consequential damages  
-- Total liability capped at the amount you donated in the last 12 months
+## 14. Termination
 
-## Indemnification
+- OGCraft may suspend or terminate access for any rules breach or legal issue.  
+- REvading a permanent ban is prohibited and may have legal consequences. This does not apply to temporary bans.
+- Supporter benefits may be removed immediately if rules are broken.
 
-You agree to indemnify OGCraft and its staff against any claims arising from your actions or breach of these Terms.
+---
 
-## Authorisation
+## 15. Updates
 
-By using OGCraft Services or donating, you confirm that:
+- Terms & Privacy Policy may change at any time.  
+- Continued use means you **accept the updates**.  
+- Check the Terms periodically to stay informed.
 
-- You meet age and consent requirements  
-- You are authorized to use the chosen payment method  
-- You will not dispute or reverse donations  
-- You accept that donations are non-refundable  
-- You will not misuse supporter privileges  
-- You accept that violations may result in bans without warning
+---
 
-If you do not agree to these Terms, you may not use OGCraft Services or make donations. Violation of these Terms or Server Rules may result in permanent bans, loss of privileges, and other appropriate actions without refund.
+We will not update all players when these terms are updated, however we will make all reasonable attemps to update all players of any changes to these terms. 
