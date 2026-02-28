@@ -1,157 +1,273 @@
----
-title: OGCraft Terms of Service & Privacy Policy
----
-
-# OGCraft Terms & Privacy Policy  
-**Updated 27th February 2026**
-
-Welcome to OGCraft! By playing on our servers, using our Discord, or donating, you agree to these rules and policies.
+# OGCraft Terms of Service & Privacy Policy  
+**Last Updated: 28 February 2026**
 
 ---
 
 ## 1. Who Runs OGCraft
 
-- **Sam Jowett/RedstoneSam** is the sole legal owner and makes all official decisions.  
-- **Caleb & Collin** are volunteers/administrators:  
-  - They give advice and manage day-to-day tasks  
-  - They have no legal ownership or liability  
-- The title **“Founder”** is public only and does not mean ownership.
+OGCraft is solely owned and operated by **Sam Jowett**, who retains full legal ownership, control, and final decision-making authority over all aspects of the server, its services, finances, and policies.
+
+Caleb and Collin act as volunteers/administrators. Their role is limited to assisting with day-to-day operations, moderation, technical input, and advisory support. They:
+
+- Hold no ownership stake in OGCraft  
+- Have no financial interest in OGCraft  
+- Carry no personal legal liability for the operation of OGCraft  
+
+The public-facing title “Founder” is a community title only and does not grant ownership, partnership status, or legal authority.
 
 ---
 
 ## 2. Payments & Ranks
 
-- All payments are in **GBP (£)**.  
-- Supporter Ranks are **cosmetic/quality of life only**:  
-  - Cannot be sold, traded, or bought with in-game currency/items  
-  - Give **no monetary value** or moderation perks  
-- Ranks are applied **automatically after payment**.  
-- Service starts **immediately**; if OGCraft makes an error, you get **extra 10% time**.  
-- Custom donations follow the same **non-refund, non-chargeback rules**.
+All payments are processed in Pounds Sterling (GBP £).
+
+Supporter Ranks are optional purchases intended to support server development and maintenance. They:
+
+- Provide cosmetic and quality-of-life features only  
+- Do not provide competitive gameplay advantages  
+- Do not provide moderation authority  
+- Hold no monetary value  
+- Cannot be sold, transferred, traded, or exchanged  
+- Cannot be purchased using in-game currency or items  
+
+Ranks are applied automatically after payment confirmation. It is the purchaser’s responsibility to ensure correct account details are provided at checkout.
+
+Service begins immediately once payment is successfully processed. If a technical error caused by OGCraft delays activation, the affected user will receive additional time equal to the lost period plus 10%.
+
+Custom donations, bespoke packages, or manually arranged payments are subject to the same rules regarding refunds, chargebacks, and service commencement. Due to the nature of bespoke packages, you waiver your cooling-off period once services/benefits begin.
 
 ---
 
 ## 3. Immediate Service
 
-- By paying, you **request immediate service**.  
-- UK law cooling-off periods **do not apply** once service starts.
+By completing a payment, you expressly request that digital service delivery begins immediately.
+
+Under UK consumer law, once digital content or services begin with your consent, the standard cooling-off period does not apply. By purchasing, you acknowledge that:
+
+- You lose the right to cancel once service begins  
+- Digital benefits are delivered instantly upon processing  
 
 ---
 
 ## 4. Consumer Rights
 
-- These Terms **do not remove your statutory rights** under UK law.  
-- You may be entitled to a remedy for poor service under the **Consumer Rights Act 2015**.  
-- Claims must be sent to OGCraft via **official email** with **proof of payment, issue and possible resolution**.
+Nothing in these Terms removes or reduces your statutory rights under UK law.
+
+If a digital service is not provided with reasonable care and skill, you may be entitled to remedies under the Consumer Rights Act 2015.
+
+To raise a claim, you must:
+
+- Contact OGCraft via the official email address  
+- Provide proof of payment  
+- Clearly explain the issue  
+- Provide supporting evidence where applicable  
+- State the remedy you believe is appropriate  
+
+Failure to provide sufficient evidence may result in the claim being declined.
 
 ---
 
 ## 5. Refunds & Maximum Claims
 
-- Payments are generally **non-refundable**.  
-- Canceling recurring payments stops future charges but does **not refund current periods**.  
-- If a claim is valid, the **most you can be compensated** is:  
-  - Payment amount + last 3 months of payments
+All payments are generally non-refundable due to the immediate delivery of digital services.
+
+Cancelling a recurring payment will prevent future charges but will not refund the current billing period.
+
+If a claim is accepted as valid, maximum compensation is strictly limited to:
+
+- The amount paid for the disputed service; plus  
+- Up to the value of the previous three months of payments made by the claimant  
+
+This represents the absolute maximum financial liability for refund-related claims.
 
 ---
 
 ## 6. Liability
 
-- Total liability is limited to **the last 3 months of payments or statutory minimum**, whichever is greater.  
-- This does not exclude liability for:  
-  - Death or injury caused by negligence  
-  - Fraud  
-  - Other UK-law protections
+To the fullest extent permitted by UK law, total liability arising from use of OGCraft services is limited to:
+
+- The total payments made in the previous three months; or  
+- The statutory minimum required by law  
+
+This limitation applies to all claims, including but not limited to breach of contract, negligence, or statutory rights.
+
+Nothing in these Terms excludes or limits liability for:
+
+- Death or personal injury caused by negligence  
+- Fraud or fraudulent misrepresentation  
+- Any matter that cannot legally be limited under UK law  
 
 ---
 
 ## 7. Service Availability
 
-- Services are provided **as-is and as-available**.  
-- OGCraft may suspend or modify the service without notice.  
-- Not liable for:  
-  - Server resets, corruption, or rollbacks  
-  - Loss of items or data from user error  
-- Our playerbase is **global**.
+OGCraft services are provided on an “as-is” and “as-available” basis.
+
+We do not guarantee:
+
+- Continuous uptime  
+- Error-free performance  
+- Permanent data storage  
+- Compatibility with all client modifications  
+
+OGCraft reserves the right to:
+
+- Suspend, modify, or discontinue services at any time  
+- Reset worlds  
+- Roll back data  
+- Remove features  
+
+We are not liable for:
+
+- Server resets or world corruption  
+- Data loss  
+- Loss of in-game items or currency  
+- Losses resulting from user error, third-party software, or client modifications  
+
+OGCraft operates a global playerbase. By connecting, you acknowledge that data may be processed across international infrastructure used by service providers.
 
 ---
 
 ## 8. Eligibility & Conduct
 
-- You must be **18+** or have parental consent.  
-- You must use **authorized payment methods**.  
-- Breaking server rules or misusing supporter privileges may result in **bans without refund**.
+You must be at least 18 years old or have parental/guardian consent to make purchases.
+
+You must use authorised and lawfully owned payment methods.
+
+Violation of server rules, abuse of staff, exploitation of bugs, misuse of supporter features, or fraudulent payment behaviour may result in:
+
+- Temporary suspension  
+- Permanent ban  
+- Removal of supporter benefits  
+- Refusal of future service  
+
+No refunds will be issued for bans resulting from rule violations.
 
 ---
 
 ## 9. Data Collection
 
-We collect only what is needed to run the server safely:
+We collect only the minimum data necessary to operate the server securely and effectively.
 
-- **Minecraft usernames**  
-- **IP addresses** (only logged for server connection; publicly visible if pinged)  
+This includes:
 
-We do **not** collect:
+- Minecraft usernames  
+- IP addresses at time of connection  
+- Basic server interaction logs  
 
-- Payment card details (PayPal handles these)  
-- Discord IDs beyond public visibility  
+IP addresses are logged strictly for:
+
+- Security monitoring  
+- Fraud prevention  
+- Moderation investigations  
+- Technical diagnostics  
+
+IP addresses are not publicly displayed except where visible through standard Minecraft server ping behaviour.
+
+We do not collect:
+
+- Payment card details (handled entirely by PayPal)  
+- Private Discord data beyond what users voluntarily make public  
+- Government identification  
+- Physical addresses (handled entirely by CraftingStore) 
 
 ---
 
 ## 10. Data Usage
 
-Data is used for:
+Collected data is used solely for:
 
-- Server security & moderation  
-- Technical troubleshooting  
-- Fraud prevention  
+- Maintaining server security  
+- Enforcing rules  
+- Preventing fraud and abuse  
+- Diagnosing technical issues  
+- Ensuring service stability  
 
-No personal data is shared beyond what’s legally required or needed to operate the server.
+Personal data is not sold, rented, or shared for marketing purposes.
+
+Data will only be disclosed if:
+
+- Required by law  
+- Necessary to prevent fraud  
+- Required to protect legal rights  
 
 ---
 
 ## 11. Data Security
 
-- Payment data is handled by **PayPal** (access only by Sam Jowett).  
-- Critical accounts use **two-factor authentication**.  
-- PayPal is responsible for its own security; OGCraft is not liable for PayPal breaches.  
-- We use reasonable measures to protect all collected data.
+Payment transactions are processed through PayPal. OGCraft does not store or access full payment card information.
+
+Access to financial records is restricted to Sam Jowett.
+
+Security measures include:
+
+- Two-factor authentication on critical accounts  
+- Password protection and access controls  
+- Restricted administrative access  
+
+PayPal is independently responsible for its own security systems. OGCraft is not liable for breaches occurring within PayPal’s infrastructure.
+
+We take reasonable steps to safeguard collected data but cannot guarantee absolute security.
 
 ---
 
 ## 12. Copyright & Content
 
-- Do **not upload copyrighted material** without permission.  
-- All content must comply with UK copyright law.  
-- Report infringements via **Discord support ticket** to a Founder.  
-- OGCraft may remove content that violates copyright.
+Users must not upload, distribute, or reproduce copyrighted material without proper authorisation.
+
+All user-generated content must comply with UK copyright law.
+
+If you believe your copyright has been infringed, you may submit a report via:
+
+- A Discord support ticket addressed to a Founder  
+
+Reports must include sufficient evidence of ownership.
+
+OGCraft reserves the right to remove any content that violates copyright or intellectual property rights.
 
 ---
 
 ## 13. Other Terms
 
-- Ranks and donations provide **cosmetic/quality of life benefits only**.  
-- OGCraft may transfer rights/obligations without notice.  
-- You cannot transfer your rights without written consent.  
-- Invalid clauses do not affect the rest of the Terms.  
-- Not enforcing a right does not waive it.
+Supporter ranks and donations provide cosmetic and quality-of-life features only. They do not constitute investments, assets, or transferable property.
+
+OGCraft may transfer or assign operational rights without notice.
+
+Users may not transfer their rights under these Terms without written consent.
+
+If any provision of these Terms is found invalid or unenforceable, the remaining provisions remain in full effect.
+
+Failure to enforce any provision does not constitute waiver of future enforcement.
 
 ---
 
 ## 14. Termination
 
-- OGCraft may suspend or terminate access for any rules breach or legal issue.  
-- REvading a permanent ban is prohibited and may have legal consequences. This does not apply to temporary bans.
-- Supporter benefits may be removed immediately if rules are broken.
+OGCraft reserves the right to suspend or permanently terminate access for:
+
+- Rule violations  
+- Fraudulent activity  
+- Payment disputes or chargebacks  
+- Legal or operational necessity  
+
+Evading a permanent ban is strictly prohibited and may result in:
+
+- Additional bans  
+- Network-wide blocking  
+- Legal action where appropriate  
+
+This does not apply to temporary bans once they have expired.
+
+Supporter benefits may be revoked immediately upon serious rule violations.
 
 ---
 
 ## 15. Updates
 
-- Terms & Privacy Policy may change at any time.  
-- Continued use means you **accept the updates**.  
-- Check the Terms periodically to stay informed.
+These Terms and Privacy Policy may be updated at any time.
 
----
+Continued use of OGCraft services after updates constitutes acceptance of the revised Terms.
 
-We will not update all players when these terms are updated, however we will make all reasonable attemps to update all players of any changes to these terms. 
+OGCraft is not obligated to individually notify all players of changes. However, reasonable efforts will be made to inform the community of significant updates.
+
+Players are responsible for periodically reviewing the Terms to remain informed.
