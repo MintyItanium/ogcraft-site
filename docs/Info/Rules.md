@@ -4,13 +4,13 @@ sidebar_position: 0
 ---
 # Server Rules
 
-> **Disclaimer:** This list is not exhaustive and cannot cover every possible scenario or edge case. If you’re ever unsure whether something is allowed, please ask a staff member for clarification before proceeding.
+> **Disclaimer:** This list is not exhaustive and cannot cover every possible scenario or edge case. If you’re ever unsure whether something is allowed, please ask a staff member for clarification before proceeding. Explanations are **purely examples** and are not to be taken as this is the only way you can break the rule.
 
 ---
 
 ## <img src="/img/mc-grass-block.png" alt="OGCraft Logo" width="100" style={{ verticalAlign: 'middle' }} /> Minecraft Server Rules
 
-1. **No Griefing Builds**  
+1. **No Griefing**  
    Griefing is the act of deliberately destroying, modifying, or defacing another player’s creations or the world around you. Even unclaimed or seemingly abandoned builds are off-limits.
 
 
