@@ -15,6 +15,8 @@ Caleb and Collin act as volunteers/administrators. Their role is limited to assi
 
 The public-facing title “Founder” is a community title only and does not grant ownership, partnership status, or legal authority.
 
+Any support should first be directed to our discord server, found at https://ogcraft.org/discord, or to our email address OGCcraftSurvival@gmail.com. 
+
 ---
 
 ## 2. Payments & Ranks
@@ -27,7 +29,7 @@ Supporter Ranks are optional purchases intended to support server development an
 - Do not provide competitive gameplay advantages  
 - Do not provide moderation authority  
 - Hold no monetary value  
-- Cannot be sold, transferred, traded, or exchanged  
+- Supporter ranks purchased through the store cannot be sold, transferred, traded, or exchanged. This does not apply to the rank vouchers that are obtained in game.
 - Cannot be purchased using in-game currency or items  
 
 Ranks are applied automatically after payment confirmation. It is the purchaser’s responsibility to ensure correct account details are provided at checkout.
@@ -134,14 +136,14 @@ You must be at least 18 years old or have parental/guardian consent to make purc
 
 You must use authorised and lawfully owned payment methods.
 
-Violation of server rules, abuse of staff, exploitation of bugs, misuse of supporter features, or fraudulent payment behaviour may result in:
+Violation of server rules, abuse of staff, exploitation of bugs, misuse of supporter features, or fraudulent payment behaviour may result in but not limited to:
 
 - Temporary suspension  
 - Permanent ban  
 - Removal of supporter benefits  
 - Refusal of future service  
 
-No refunds will be issued for bans resulting from rule violations.
+No refunds will be issued for punishments resulting from rule violations.
 
 ---
 
@@ -219,7 +221,9 @@ All user-generated content must comply with UK copyright law.
 
 If you believe your copyright has been infringed, you may submit a report via:
 
-- A Discord support ticket addressed to a Founder  
+- A Discord support ticket addressed to a Founder
+  or
+- An email to our support email address detailing the issue
 
 Reports must include sufficient evidence of ownership.
 
