@@ -13,19 +13,22 @@ title: 👥 Staff Members
 - **anneizzle**
 - **NixStyx**
 - **SwankopotamusRex**
+- **lariatt**
 
 ## Moderators
-- **ElliottPlays** 
-- **Jimidabob05** 
 - **chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
 - **Kumiko**
+- **Cola57_dg**
+- **desiderata_**
+- **DaysGoneWheat**
 
 ## Architects
 - **NixStyx**
 - **ChunkyPumpkin**
 - **silver_seven**
+- **DaysGoneWheat**
 
 ## Engineers
 - **RedstoneSam**
@@ -33,6 +36,7 @@ title: 👥 Staff Members
 
 ## Developers
 - **\_roman_emperor_**
+- **OJCream**
 - **Spikeblade**
 
 ---
