@@ -38,7 +38,7 @@ All proceeds from paid ranks go directly toward covering server operating costs,
 There are several ways to earn money:
 
 - **Sell items in the shop** - Use `/shop`, then right-click the item you want to sell.
-- **Auction items** - Use `/auction start [how many] [price]` to auction the item(s) you are holding to players.
+- **Auction items** - Use `/ah` to look at how to use the auction house.
 - **Direct trades** - Trade items manually and use `/pay [username] [amount]` to receive payment.
 - **Earn money from voting** -  $100 per [vote](/docs/Info/Voting)
 - **Other ways** - Participate in chat games or open crates
