@@ -10,25 +10,23 @@ title: 👥 Staff Members
 - **\_roman_emperor_** (“Caleb”)
 
 ## Admins
-- **anneizzle**
-- **NixStyx**
+- **Anneizzle**
 - **SwankopotamusRex**
-- **lariatt**
+- **Lariatt_**
 
 ## Moderators
-- **chuckiefunk** 
+- **Chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
 - **Kumiko**
 - **Cola57_dg**
-- **desiderata_**
-- **DaysGoneWheat**
+- **Desiderata_**
+- **DaysGoneDead**
 
 ## Architects
-- **NixStyx**
+- **DaysGoneDead**
 - **ChunkyPumpkin**
-- **silver_seven**
-- **DaysGoneWheat**
+- **Silver_Seven**
 
 ## Engineers
 - **RedstoneSam**
@@ -61,10 +59,13 @@ General Staff applications are open.
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
+- **NixStyx** — Former Admin 
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
 - **carolinecraft01** — Former Moderator  
+- **ElliottPlays** — Former Moderator  
+- **Jimidabob05** — Former Moderator  
 
 ---
 
