@@ -80,6 +80,12 @@ sidebar_position: 0
 
 18. **Toggle PVP Only**  
     Killing players without consent/permission will resut in punishment. We are a a toggle PvP server, just because they have PvP turned on doesn't mean players are consenting to be killed.
+    
+20. **No items depicting or implying alcohol or drugs may be sold**
+    Items intended to be seen alcohol or drugs, or alluded to be, are not allowed to be sold.
+
+21. **No Intoxication Gameplay**
+    The act, idea, or intention of intoxication in gameplay, whether it be from alcohol, drugs or other means, is not allowed. 
 
 ---
 
