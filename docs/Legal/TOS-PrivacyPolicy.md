@@ -265,8 +265,26 @@ This does not apply to temporary bans once they have expired.
 Supporter benefits may be revoked immediately upon serious rule violations.
 
 ---
+## 15. Use of Player-Created Content
 
-## 15. Updates
+By playing on OGCraft, you grant the server operators a non-exclusive, worldwide, royalty-free licence to use, reproduce, modify, adapt, publish, and display any builds, structures, or other in-game creations you produce on the server.
+
+This includes, but is not limited to, use in:
+
+- Social media posts
+- Promotional material
+- Advertising and marketing content
+- Server showcases, trailers, and videos
+
+This licence is granted without compensation and applies whether or not you are actively playing on the server at the time the content is used.
+
+Where reasonably possible, we may credit creators, but this is not guaranteed.
+
+If you do not agree to this, you should not create content on the server.
+
+---
+
+## 16. Updates
 
 These Terms and Privacy Policy may be updated at any time.
 
