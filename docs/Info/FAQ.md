@@ -150,3 +150,7 @@ Here is a [simple video](https://youtu.be/REwWh0WqSDk?si=OmML8uEUxUNiESJl&t=600)
 There’s no fixed schedule for map resets, but maps generally last **9 to 12 months**.  
 If a map is especially active or popular, it may last longer.  
 **You’ll always receive advance notice before any reset happens.**
+
+## Contact Us
+Need to reach us but don’t have Discord?  
+📧 **OGCraftSurvival@gmail.com**
