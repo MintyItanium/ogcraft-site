@@ -1,5 +1,5 @@
 # OGCraft Terms of Service & Privacy Policy  
-**Last Updated: 27 March 2026**
+**Last Updated: 5 April 2026**
 
 ---
 
