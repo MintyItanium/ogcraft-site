@@ -1,5 +1,5 @@
 # OGCraft Terms of Service & Privacy Policy  
-**Last Updated: 27 March 2026**
+**Last Updated: 5 April 2026**
 
 ---
 
@@ -168,10 +168,10 @@ IP addresses are not publicly displayed except where visible through standard Mi
 
 We do not collect:
 
-- Payment card details (handled entirely by PayPal)  
+- Payment card details  
 - Private Discord data beyond what users voluntarily make public  
 - Government identification  
-- Physical addresses (handled entirely by CraftingStore) 
+- Physical addresses
 
 ---
 
@@ -191,13 +191,14 @@ Data will only be disclosed if:
 
 - Required by law  
 - Necessary to prevent fraud  
-- Required to protect legal rights  
+- Required to protect legal rights
+- For accounting purposes
 
 ---
 
 ## 11. Data Security
 
-Payment transactions are processed through PayPal. OGCraft does not store or access full payment card information.
+Payment transactions are processed through 3rd party companies. OGCraft does not store or access full payment card information.
 
 Access to financial records is restricted to Sam Jowett.
 
@@ -207,7 +208,7 @@ Security measures include:
 - Password protection and access controls  
 - Restricted administrative access  
 
-PayPal is independently responsible for its own security systems. OGCraft is not liable for breaches occurring within PayPal’s infrastructure.
+The 3rd party companies are independently responsible for its own security systems. OGCraft is not liable for breaches occurring within their infrastructure.
 
 We take reasonable steps to safeguard collected data but cannot guarantee absolute security.
 
