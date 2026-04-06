@@ -132,16 +132,18 @@ Here is a [simple video](https://youtu.be/REwWh0WqSDk?si=OmML8uEUxUNiESJl&t=600)
 - Buy them with `/BuyClaimBlocks [amount]` for $1 per block
 
 ### 🛠️ Useful Claim Commands:
-| Command                          | Description                                                             |
-|----------------------------------|-------------------------------------------------------------------------|
-| `/claimslist`                    | View all your current claims.                                           |
-| `/sethome [HomeName]`            | Set a home so you don’t lose your claim location.                       |
-| `/buyclaimblocks [amount]`       | Purchase claim blocks at $1 per claim block.                            |
-| `/trust [PlayerUsername]`        | Allow a player to build in your claim.                                  |
-| `/containertrust [PlayerUsername]` | Allow a player to use your containers, levers, beds, etc.             |
-| `/untrust [PlayerUsername]`      | Remove a player’s trust from a claim.                                   |
-| `/trustlist`                     | Run it in a claim to see all players with trust.                        |
 
+
+| Command                            | Description                                                       |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| `/claimslist`                      | View all your current claims.                                     |
+| `/sethome [HomeName]`              | Set a home so you don’t lose your claim location.                |
+| `/buyclaimblocks [amount]`         | Purchase claim blocks at $1 per claim block.                      |
+| `/trust [PlayerUsername]`          | Allow a player to build in your claim.                            |
+| `/containertrust [PlayerUsername]` | Allow a player to use your containers, levers, beds, etc.         |
+| `/untrust [PlayerUsername]`        | Remove a player’s trust from a claim.                            |
+| `/trustlist`                       | Run it in a claim to see all players with trust.                  |
+| `/claimexplosion`                  | Toggles claim explosions. **This can cause damage to your claim.** |
 
 ---
 

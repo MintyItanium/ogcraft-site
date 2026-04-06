@@ -1,10 +1,11 @@
 ## 📖 Table of Contents
 
 1. [Gameplay & Utilities](#gameplay--utilities)
-2. [Teleportation & Movement](#teleportation--movement)
-3. [Economy & Trading](#economy--trading)
-4. [Communication](#communication)
-5. [Other](#other)
+2. [Land Claims](#land-claims)
+3. [Teleportation & Movement](#teleportation--movement)
+4. [Economy & Trading](#economy--trading)
+5. [Communication](#communication)
+6. [Other](#other)
 
 ---
 
@@ -32,6 +33,22 @@
 | `/feed`                                      | Restore your hunger to full.                                                                      |
 | `/fly`                                       | Toggle fly mode on or off. available at higher ranks                                              |
 | `/ignore [player]`                           | Ignore/block messages from a specific player.                                                     |
+
+---
+
+## Land Claims
+
+
+| Command                            | Description                                                       |
+| ------------------------------------ | ------------------------------------------------------------------- |
+| `/claimslist`                      | View all your current claims.                                     |
+| `/sethome [HomeName]`              | Set a home so you don’t lose your claim location.                |
+| `/buyclaimblocks [amount]`         | Purchase claim blocks at $1 per claim block.                      |
+| `/trust [PlayerUsername]`          | Allow a player to build in your claim.                            |
+| `/containertrust [PlayerUsername]` | Allow a player to use your containers, levers, beds, etc.         |
+| `/untrust [PlayerUsername]`        | Remove a player’s trust from a claim.                            |
+| `/trustlist`                       | Run it in a claim to see all players with trust.                  |
+| `/claimexplosion`                  | Toggles claim explosions. **This can cause damage to your claim.** |
 
 ---
 
