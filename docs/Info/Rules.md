@@ -137,3 +137,10 @@ Discord requires all users to be 13+ to have a Discord account, regardless of pa
 
 11. **No Handouts**  
     Do not ask for free ranks, keys, items, or money from staff or other players.
+
+
+12. **No Discussing Politics**  
+    Discussion of politics, policiticians or other related things is not allowed.
+
+
+    
