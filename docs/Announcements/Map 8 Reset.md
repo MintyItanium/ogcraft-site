@@ -1,4 +1,9 @@
-# __**Map 8 Reset**__
+---
+sidebar_position: 1
+title: Map 8 Reset
+---
+
+Map 8 Reset
 
 So somehow… and I still don’t know how… we beat our last record of the longest map by 4 months. That’s right, Map 8 ran for 14 months. That is insane. Thank you everyone.  
   
