@@ -20,7 +20,7 @@ With what’s coming, we have definitely one upped the spawn. We dug deep for in
 
 Map 8 Closing: May 23rd, 9 AM MST
 
-Map 9 Opening: May 23rdth, 10 AM MST
+Map 9 Opening: May 23rd, 10 AM MST
 
   
 
