@@ -18,7 +18,6 @@ title: 👥 Staff Members
 - **Chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
-- **Kumiko**
 - **Cola57_dg**
 - **Desiderata_**
 - **DaysGoneDead**
