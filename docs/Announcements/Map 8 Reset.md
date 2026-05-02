@@ -20,7 +20,7 @@ With what’s coming, we have definitely one upped the spawn. We dug deep for in
 
 Map 8 Closing: May 23rd, 9 AM MST
 
-Map 9 Opening: May 23rdth, 10 AM MST
+Map 9 Opening: May 23rd, 10 AM MST
 
   
 
@@ -109,7 +109,7 @@ If you do /kit Reset, you will receive your reset bundle. Fill your bundle with 
 Please note: We are not allowing spawners to be taken over this map. Any bundle containing spawners will not be taken over.  
 
 
-If you have any event items or historic items (they will have added lore on them so you can easily tell), hand these over to a staff member too and we’ll transfer these without taking up space in your bundle!
+If you have any event items or historic items (they will have added lore on them so you can easily tell), hand these over to a staff member too and we’ll transfer these without taking up space in your bundle!)
 
   
 
