@@ -18,9 +18,9 @@ With what’s coming, we have definitely one upped the spawn. We dug deep for in
 
 ## __**When is the reset happening?**__
 
-Map 8 Closing: May 23rd, 9 AM MST
+Map 8 Closing: May 23rd, 2026 • 9 AM MST
 
-Map 9 Opening: May 23rd, 10 AM MST
+Map 9 Opening: May 23rd, 2026 • 10 AM MST
 
   
 
