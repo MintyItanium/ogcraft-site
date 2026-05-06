@@ -18,86 +18,86 @@ With what’s coming, we have definitely one upped the spawn. We dug deep for in
 
 ## __**When is the reset happening?**__
 
-Map 8 Closing: May 23rd, 2026 • 9 AM MST
+- **Map 8 Closing:** May 23rd, 2026 • 9 AM MST
 
-Map 9 Opening: May 23rd, 2026 • 10 AM MST
+- **Map 9 Opening:** May 23rd, 2026 • 10 AM MST
 
   
 
 ## __Some new additions__
 
-Running new semi-custom server software. If anything is out of the ordinary or not running how things should, please let us know as soon as possible.
+- **Running new semi-custom server software.** If anything is out of the ordinary or not running how things should, please let us know as soon as possible.
 
-New Chat Game Tokens. These are won from the chat games instead of the light blocks.
+- **New Chat Game Tokens.** These are won from the chat games instead of the light blocks.
 
-New Chat Game token rewards, found near /warp crates.
+- **New Chat Game token rewards**, found near /warp crates.
 
-A new custom coded player resizer plugin! Do /resize to change your size in game so you better get grinding up to Diamond rank to use it! Custom made by our developer team.
+- **A new custom coded player resizer plugin!** Do **/resize** to change your size in game so you better get grinding up to Diamond rank to use it! Custom made by our developer team.
 
-New auction plugin to replace the auction house.
+- **New auction plugin** to replace the auction house.
 
-A new plugin to replace /ar time. Do /playtime instead of /ar time. Custom made by our developer team. (This was due to the previous plugin not being supported by the new server software).
+- **A new plugin to replace /ar time.** Do **/playtime** instead of **/ar time.** Custom made by our developer team. _(This was due to the previous plugin not being supported by the new server software)._
 
 
 
 ## __**General Changes**__
 
-New spawn as usual. Check out our socials for a couple of teasers.
+- **New spawn as usual.** Check out our socials for a couple of teasers.
 
-New spawn easter egg that anyone can complete, but the first person to finish it gets some exclusive rewards.
+- **New spawn easter egg** that **anyone** can complete, but the first person to finish it gets some **exclusive rewards.**
 
-Massive /shop overhaul. Dynamic prices so prices will respond to players buying and selling in real time.
+- **Massive** /shop overhaul. **Dynamic prices** so prices will respond to players buying and selling in real time.
 
-Changes to the pwarp system. You can now have unlimited pwarps set, however the prices escalate per warp.
+- **Changes to the pwarp system.** You can now have **unlimited** pwarps set, however **the prices escalate per warp.**
 
-A rework to permissions (after almost 6 years of permissions and plugins changing). These were rebuilt from the ground up so if you don’t have access to something you should, let us know.
+- **A rework to permissions** (after almost 6 years of permissions and plugins changing). These were rebuilt from the ground up so if you don’t have access to something you should, let us know.
 
-A minor change to the staff team. Moderators and Admins are now referred to as “Moderation Team” whilst Developers, Engineers and Architects will be officially classed as part of the “Staff” team.
+- **A minor change to the staff team.** Moderators and Admins are now referred to as **“Moderation Team”** whilst Developers, Engineers and Architects will be officially classed as part of the **“Staff”** team.
 
-Some custom coded plugins to replace older plugins. 
+- **Some custom coded plugins** to replace older plugins. 
 
-Our chat on the server is now future proofed so when we start expanding the OGCraft network, everything is synced together.
+- **Our chat on the server is now future proofed** so when we start expanding the OGCraft network, everything is synced together.
 
-McMMO has been replaced with a new Skills Plugin. It’s very similar in the sense of ranking up skills and you can earn even better rewards the more you level it up.
+- **McMMO has been replaced with a new Skills Plugin.** It’s very similar in the sense of ranking up skills and you can earn **even better rewards** the more you level it up.
 
-Because of how much lag spawner farms are creating on the server, we have had to make the tough decision to remove Silk Touch Spawner from the server.
+- _Because of how much lag spawner farms are creating on the server, **we have had to make the tough decision to remove Silk Touch Spawner from the server.**_
   
 
 ### __**Things being reset**__
 
-Inventories
+- Inventories
 
-Enderchests
+- Enderchests
 
-Claimblocks
+- Claimblocks
 
-Money balance
+- Money balance
 
-Kits
+- Kits
 
-Playervaults
+- Playervaults
 
-mcMMO Levels
+- mcMMO Levels
 
-Quests
+- Quests
 
-Achievements, both default Minecraft and Blaze and Caves
+- Achievements, both default Minecraft and Blaze and Caves
 
-All worlds
+- All worlds
 
   
 
 ### __**Things that will not be reset**__
 
-Ranks
+- Ranks
 
-Playtime
+- Playtime
 
   
 
 ### __**What version will the map be on?**__
 
-We plan to open on 1.21.11, but we are looking at potentially being on 26.1.2 if possible.
+We plan to open on **1.21.11**, but we are looking at _potentially being on 26.1.2_ if possible.
 
   
 
@@ -106,7 +106,7 @@ We plan to open on 1.21.11, but we are looking at potentially being on 26.1.2 if
 If you do /kit Reset, you will receive your reset bundle. Fill your bundle with as many items as you can, but be mindful, you only get 1 bundle! Have a look on Google or YouTube on how to use a bundle if you’re unfamiliar.
 
 
-Please note: We are not allowing spawners to be taken over this map. Any bundle containing spawners will not be taken over.  
+**Please note: We are not allowing spawners to be taken over this map. Any bundle containing spawners will not be taken over.**  
 
 
 If you have any event items or historic items (they will have added lore on them so you can easily tell), hand these over to a staff member too and we’ll transfer these without taking up space in your bundle!)
