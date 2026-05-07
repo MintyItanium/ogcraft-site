@@ -9,8 +9,8 @@ However, we have a little twist: instead of a huge spawn, we listened to your fe
 
 ##  When is the reset happening?
 
-- **Map 4 Closing:** April 6, 2024 • 10 AM MST  
-- **Map 5 Opening:** April 7, 2024 • 10 AM MST  
+- **Map 4 Closing:** April 6, 2023 • 10 AM MST  
+- **Map 5 Opening:** April 7, 2023 • 10 AM MST  
 
 ##  Some new additions
 

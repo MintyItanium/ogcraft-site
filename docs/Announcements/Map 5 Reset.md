@@ -9,8 +9,8 @@ Is it that time already? Yes it is! **OGCraft** is resetting its map!
 Like every reset, we have a brand-new map! We wanted to go outside the box a little bit and do something we’ve never done before…
 ##  When is the reset happening?
 
-- **Map 5 Closing:** September 28, 2023 • 16:00 UTC  
-- **Map 6 Opening:** September 30, 2023 • 16:00 UTC  
+- **Map 5 Closing:** September 28, 2023 • 9 AM MST
+- **Map 6 Opening:** September 30, 2023 • 9 AM MST
 
 ##  Some new additions
 
