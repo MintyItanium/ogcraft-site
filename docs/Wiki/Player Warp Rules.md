@@ -10,9 +10,11 @@
 
 ### Sub-Categories  
 There will be three new sub-categories on the `/pwarp` menu:  
+- **Generic**  
 - **Shops**  
 - **Grinders**  
-- **Towns**  
+- **Towns**
+
 
 ---
 
@@ -24,7 +26,14 @@ There will be three new sub-categories on the `/pwarp` menu:
    - Players cannot die on warp unless clear warning signs are posted (e.g. witches throwing potions).
 
 2. **Creation Fee**  
-   - Each Pwarp costs **$1,000** to create.
+   - Each Pwarp costs increases per pwarp you have.
+   - 
+   - The exact formula is $7,000 +(3,000 *((n)+1^((n)+1)) where n is the number of pwarps you currently have. Prices for the first 5 pwarps are the below
+   - 1: $10,000
+   - 2: $19,000
+   - 3: $34,000
+   - 4: $55,000
+   - 5: $82,000
 
 3. **Category Required**  
    - You must assign one of the three categories when setting a Pwarp; uncategorized Pwarps will be removed.
@@ -65,3 +74,4 @@ There will be three new sub-categories on the `/pwarp` menu:
 
 - **Minimum Population**  
   - At least **3** residents plus the **mayor**.
+
