@@ -18,7 +18,7 @@
 | `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                              |
 | `/kit [kitname]`                             | Claim an available kit.                                                                           |
 | `/playtime`                                  | Shows your playtime.                                                                              |
-| `/playtop [daily|weekly|monthly|alltime| `   | Shows the playtime leaderboard.                                                                   |
+| `/playtop [daily/weekly/monthly/alltime]`     | Shows the playtime leaderboard.                                                                   |
 | `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block.                                                     |
 | `/abandonclaim`                              | Deletes your land claim.                                                                          |
 | `/pvp`                                       | Toggle PVP on or off.                                                                             |
