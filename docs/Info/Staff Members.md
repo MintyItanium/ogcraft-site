@@ -18,7 +18,6 @@ title: 👥 Staff Members
 - **Chuckiefunk** 
 - **Darkeyke**
 - **Karma_3e**
-- **Kumiko**
 - **Cola57_dg**
 - **Desiderata_**
 - **DaysGoneDead**
@@ -68,7 +67,8 @@ General Staff applications are open.
 - **Rankork** — Former Moderator  
 - **carolinecraft01** — Former Moderator  
 - **ElliottPlays** — Former Moderator  
-- **Jimidabob05** — Former Moderator  
+- **Jimidabob05** — Former Moderator
+- **Kumiko** — Former Moderator
 
 ---
 

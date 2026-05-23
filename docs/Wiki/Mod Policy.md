@@ -25,6 +25,8 @@ Our main concern is competitive fairness. Mods that automate gameplay, reveal hi
 
 These types of client-side mods are allowed because they improve the experience without giving a gameplay advantage:
 
+- **Night Vision Mods**
+  - Fullbright and its variants, etc.
 - **Performance Mods**
   - Sodium, Lithium, OptiFine, etc.
 - **Visual Mods**

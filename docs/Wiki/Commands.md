@@ -15,24 +15,24 @@
 | Command                                      | Description                                                                                       |
 | :--------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `/rules`                                     | Display the server rules.                                                                         |
-| `/ref [Player that refered you]`             | If you are shown the server by someone, use this command and you'll both get a reward             |
-| `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                          |
+| `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                              |
 | `/kit [kitname]`                             | Claim an available kit.                                                                           |
-| `/ar time`                                   | Shows your playtime (Sometimes it errors and running the command again will work)                 |
-| `/ar top [daily / weekly / monthly / total]` | Shows the playtime leaderboard                                                                    |
-| `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block                                                      |
-| `/abandonclaim`                              | Deletes your land claim                                                                           |
-| `/pvp`                                       | Toggle PVP on or off                                                                              |
-| `/pv [vault number]`                         | Open your Player Vault(s), available at higher ranks                                              |
-| `/speed [num 1-10]`                          | Set your speed to a num between 1-10, available at higher ranks                                   |
-| `/god`                                       | Enables "godmode" which stops you from taking damage or needing to eat. available at higher ranks |
-| `/top`                                       | Puts you at the top of whatevers above you. available at higher ranks                             |
-| `/workbench` or `/craft` or `/wb`            | Opens a portable crafting table. available at higher ranks                                        |
-| `/mend`                                      | Use XP to mend items. available at higher ranks                                                   |
-| `/enderchest` or `/ec`                       | Open your Ender Chest.                                                                            |
-| `/feed`                                      | Restore your hunger to full.                                                                      |
-| `/fly`                                       | Toggle fly mode on or off. available at higher ranks                                              |
+| `/playtime`                                  | Shows your playtime.                                                                              |
+| `/playtop [daily|weekly|monthly|alltime| `   | Shows the playtime leaderboard.                                                                   |
+| `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block.                                                     |
+| `/abandonclaim`                              | Deletes your land claim.                                                                          |
+| `/pvp`                                       | Toggle PVP on or off.                                                                             |
+| `/pv [vault number]`                         | Open your Player Vault(s). Available at higher ranks.                                             |
+| `/speed [num 1-10]`                          | Set your speed to a number between 1-10. Available at higher ranks.                               |
+| `/god`                                       | Enables "godmode" which stops you from taking damage or needing to eat. Available at higher ranks.|
+| `/top`                                       | Puts you at the top of whatevers above you. Available at higher ranks.                            |
+| `/workbench` or `/craft` or `/wb`            | Opens a portable crafting table. Available at higher ranks.                                       |
+| `/mend`                                      | Use XP to mend items. Available at higher ranks.                                                  |
+| `/enderchest` or `/ec`                       | Open your Ender Chest. Available at higher ranks.                                                 |
+| `/feed`                                      | Restore your hunger to full. Available at higher ranks.                                           |
+| `/fly`                                       | Toggle fly mode on or off. Available at higher ranks.                                             |
 | `/ignore [player]`                           | Ignore/block messages from a specific player.                                                     |
+| `/resize`                                    | Change your player size. Available at higher ranks.                                               |
 
 ---
 

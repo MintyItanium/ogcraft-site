@@ -11,8 +11,8 @@ I say this every map, but that’s because I mean it every time: **this new map 
 
 ##  When is the reset happening?
 
-- **Map 7 Closing:** March 15th, 9 AM MST  
-- **Map 8 Opening:** March 15th, 10 AM MST
+- **Map 7 Closing:** March 15th, 2025 • 9 AM MST  
+- **Map 8 Opening:** March 15th, 2025 • 10 AM MST
 
 ##  Some new additions
 
