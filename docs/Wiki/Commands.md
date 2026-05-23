@@ -28,9 +28,9 @@
 | `/top`                               | Puts you at the top of whatevers above you. Available at higher ranks.                             |
 | `/workbench` or `/craft` or `/wb`    | Opens a portable crafting table. Available at higher ranks.                                        |
 | `/mend`                              | Use XP to mend items. Available at higher ranks.                                                   |
-| `/enderchest` or `/ec`               | Open your Ender Chest. Available at higher ranks.                                                  |
+| `/enderchest` or `/ec`               | Open your Ender Chest. Available at Diamond rank.                                                  |
 | `/feed`                              | Restore your hunger to full. Available at higher ranks.                                            |
-| `/fly`                               | Toggle fly mode on or off. Available at higher ranks.                                              |
+| `/fly`                               | Toggle fly mode on or off. Available at Emerald rank.                                              |
 | `/ignore [player]`                   | Ignore/block messages from a specific player.                                                      |
 | `/resize`                            | Change your player size. Available at higher ranks.                                                |
 
@@ -75,41 +75,42 @@
 ## Economy & Trading
 
 
-| Command                                  | Description                                                                                                                     |
-| ------------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------- |
-| `/shop`                                  | Open the shop GUI to buy and sell items.                                                                                        |
-| `/chestshops`                            | Brings up GUI for chest shops, allows for searching of chest shops                                                              |
-| `/pw create`                             | Brings up GUI for creating a Pwarp.                                                                                             |
-| `/pw category (PwName) (Category)`       | Adds Pwarp to appropriate category.                                                                                             |
-| `/pw remove (PwName)`                    | Delete a Pwarp (must do twice to confirm).                                                                                      |
-| `/pw reset (PwName)`                     | Re-Set the location of a Pwarp.                                                                                                 |
-| `/pw rename (PwOldName) (PwNewName)`     | Rename a Pwarp.                                                                                                                 |
-| `/pw desc set (PwName) "Description"`    | Set the description of the Pwarp.                                                                                               |
-| `/pw icon set (PwName)`                  | Set the icon of the Pwarp to the item in your hand.                                                                             |
-| `/sell [hand/all]`                       | Sell either all items in your hand or inventory. (All will sell every in your inventory it can, even the ones your not holding) |
-| `/bal`                                   | View your current in-game balance.                                                                                              |
-| `/baltop`                                | Shows the wealth leaderboard                                                                                                    |
-| `/pay [username] [amount]`               | Pay another player directly.                                                                                                    |
-| `/auctionhouse`                          | Opens the auction house.                                                                                                        |
-| `/auctionhouse auction [starting price]` | Starts a auction with the item in your hand.                                                                                    |
-| `/voteshop`                              | Opens the shop you can spend Vote points at                                                                                     |
-| `/vote`                                  | [Get a link to the vote sites.](/docs/Info/Voting)                                                                              |
-| `/vp`                                    | See how many votes till the next vote party                                                                                     |
+| Command                               | Description                                                                                                                     |
+| --------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
+| `/shop`                               | Open the shop GUI to buy and sell items.                                                                                        |
+| `/chestshops`                         | Brings up GUI for chest shops, allows for searching of chest shops                                                              |
+| `/pw create`                          | Brings up GUI for creating a Pwarp.                                                                                             |
+| `/pw category (PwName) (Category)`    | Adds Pwarp to appropriate category.                                                                                             |
+| `/pw remove (PwName)`                 | Delete a Pwarp (must do twice to confirm).                                                                                      |
+| `/pw reset (PwName)`                  | Re-Set the location of a Pwarp.                                                                                                 |
+| `/pw rename (PwOldName) (PwNewName)`  | Rename a Pwarp.                                                                                                                 |
+| `/pw desc set (PwName) "Description"` | Set the description of the Pwarp.                                                                                               |
+| `/pw icon set (PwName)`               | Set the icon of the Pwarp to the item in your hand.                                                                             |
+| `/sell [hand/all]`                    | Sell either all items in your hand or inventory. (All will sell every in your inventory it can, even the ones your not holding) |
+| `/bal`                                | View your current in-game balance.                                                                                              |
+| `/baltop`                             | Shows the wealth leaderboard                                                                                                    |
+| `/pay [username] [amount]`            | Pay another player directly.                                                                                                    |
+| `/auction`                            | Opens the auction house.                                                                                                        |
+| `/auction auction [starting price]`   | Starts a auction with the item in your hand.                                                                                    |
+| `/auction sell [price]`               | Put item in main hand up for **fixed-price** sale                                                                               |
+| `/voteshop`                           | Opens the shop you can spend Vote points at                                                                                     |
+| `/vote`                               | [Get a link to the vote sites.](/docs/Info/Voting)                                                                              |
+| `/vp`                                 | See how many votes till the next vote party                                                                                     |
 
 ---
 
 ## Communication
 
 
-| Command                         | Description                                                                            |
-| --------------------------------- | ---------------------------------------------------------------------------------------- |
-| `/msg [player] [message]`       | Send a private message.                                                                |
-| `/r [message]`                  | Reply to the last private message you received.                                        |
-| `/discord`                      | Display the invite link to our Discord server.                                         |
-| `/mail send [player] [message]` | Send a player mail, even when offline.                                                 |
-| `/mail read`                    | Read your mail.                                                                        |
-| `/mail clear`                   | Empty your mailbox.                                                                    |
-| `/nick`                         | Rename what you show up in chat as, see the[colors page](/docs/Wiki/Chat%20Colors.md). |
+| Command                         | Description                                                                             |
+| --------------------------------- | ----------------------------------------------------------------------------------------- |
+| `/msg [player] [message]`       | Send a private message.                                                                 |
+| `/r [message]`                  | Reply to the last private message you received.                                         |
+| `/discord`                      | Display the invite link to our Discord server.                                          |
+| `/mail send [player] [message]` | Send a player mail, even when offline.                                                  |
+| `/mail read`                    | Read your mail.                                                                         |
+| `/mail clear`                   | Empty your mailbox.                                                                     |
+| `/nick`                         | Rename what you show up in chat as, see the [colors page](/docs/Wiki/Chat%20Colors.md). |
 
 ---
 
