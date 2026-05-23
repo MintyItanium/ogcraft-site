@@ -21,8 +21,7 @@ There are two types of ranks on the server:
 ### ⏱️ Playtime Ranks
 These ranks are earned simply by playing on the server! As your (non-AFK) playtime increases, you’ll automatically unlock new ranks with kits, permissions, and useful commands.
 
-- Check your playtime with: `/ar time`  
-- See your progress toward the next rank with: `/ar check`
+- Check your playtime with: `/playtime`  
 
 ### 💸 Paid Ranks
 These are monthly subscription ranks that come with extra perks like kits, cosmetic commands, and more.  
@@ -46,28 +45,7 @@ There are several ways to earn money:
 
 ---
 
-
-## 🛠 What is McMMO? {#mcmmo}
-
-McMMO is a Minecraft plugin that adds RPG-style by adding **skill leveling**, **unique abilities**, and **perks**. Whenever you perform actions like chopping wood, mining stone, fishing, or fighting mobs, you earn XP in the corresponding skill (e.g., Woodcutting, Mining, Fishing, Combat). As you level up, you unlock powerful abilities such as:
-
-- **Double-Drops** in Mining  
-- **Tree-Feller** in Woodcutting  
-- **Super Breaker** in Mining  
-- **Serrated Strikes** in Combat  
-
-### Key Features
-
-- **15+ Skills** across Combat, Gathering, Farming, and more  
-- **Skill-Based Abilities** keep gameplay fresh and rewarding  
-- **Customizable XP Rates** & level caps for balanced progression  
-- **Party System**: share XP and buffs with friends  
-- **Leaderboards & Achievements** to showcase top players  
-
-Here is a link to the [official McMMO Wiki](https://wiki.mcmmo.org/)
-
-> **Tip:** Use `/mcstats` to view your current skill levels and `/mctop` to see the community leaderboard in-game.
-
+## MCMMO has been replaced by a new plugin. More info coming soon.
 
 ---
 
