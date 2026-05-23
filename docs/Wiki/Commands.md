@@ -90,8 +90,8 @@
 | `/bal`                                | View your current in-game balance.                                                                                              |
 | `/baltop`                             | Shows the wealth leaderboard                                                                                                    |
 | `/pay [username] [amount]`            | Pay another player directly.                                                                                                    |
-| `/ah`                                 | Opens the auction house.                                                                                                        |
-| `/ah sell [starting price]`           | Starts a auction with the item in your hand.                                                                                    |
+| `/auctionhouse`                                 | Opens the auction house.                                                                                                        |
+| `/auctionhouse auction [starting price]`           | Starts a auction with the item in your hand.                                                                                    |
 | `/voteshop`                           | Opens the shop you can spend Vote points at                                                                                     |
 | `/vote`                               | [Get a link to the vote sites.](/docs/Info/Voting)                                                                              |
 | `/vp`                                 | See how many votes till the next vote party                                                                                     |
