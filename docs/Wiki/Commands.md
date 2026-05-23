@@ -90,9 +90,9 @@
 | `/bal`                                | View your current in-game balance.                                                                                              |
 | `/baltop`                             | Shows the wealth leaderboard                                                                                                    |
 | `/pay [username] [amount]`            | Pay another player directly.                                                                                                    |
-| `/auction`                            | Opens the auction house.                                                                                                        |
-| `/auction auction [starting price]`   | Starts a auction with the item in your hand.                                                                                    |
-| `/auction sell [price]`               | Put item in main hand up for **fixed-price** sale                                                                               |
+| `/ah`                                 | Opens the auction house.                                                                                                        |
+| `/ah auction [starting price]`        | Starts a auction with the item in your hand.                                                                                    |
+| `/ah sell [price]`                    | Put item in main hand up for**fixed-price** sale                                                                                |
 | `/voteshop`                           | Opens the shop you can spend Vote points at                                                                                     |
 | `/vote`                               | [Get a link to the vote sites.](/docs/Info/Voting)                                                                              |
 | `/vp`                                 | See how many votes till the next vote party                                                                                     |
