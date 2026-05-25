@@ -6,7 +6,7 @@ title: ❓ FAQs
 
 - [🏅 How do the ranks work?](#ranks)  
 - [💰 How do I make money on the server?](#money)  
-- [🛠 What is AuraSkills?](#AuraSkills)  
+- [🛠 What is AuraSkills?](#auraskills)  
 - [🧭 How do player warps (PW) work?](#pwarps)  
 - [🚫 Dupe exploits?](#dupe-exploits)  
 - [🏠 How do claims work?](#claims)  
@@ -45,7 +45,7 @@ There are several ways to earn money:
 
 ---
 
-## What is AuraSkills?
+## What is AuraSkills? {#auraskills}
 
 AuraSkills is a plugin that adds skills, stats, abilities, and other RPG-related features. Players level up skills by gaining XP through tasks such as farming, mining, fighting, enchanting, etc. 
 
