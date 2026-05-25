@@ -18,7 +18,7 @@
 | `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                              |
 | `/kit [kitname]`                             | Claim an available kit.                                                                           |
 | `/playtime`                                  | Shows your playtime.                                                                              |
-| `/playtop [daily/weekly/monthly/alltime]`     | Shows the playtime leaderboard.                                                                   |
+| `/playtop [daily/weekly/monthly/alltime]`    | Shows the playtime leaderboard.                                                                   |
 | `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block.                                                     |
 | `/abandonclaim`                              | Deletes your land claim.                                                                          |
 | `/pvp`                                       | Toggle PVP on or off.                                                                             |
@@ -48,7 +48,7 @@
 | `/containertrust [PlayerUsername]` | Allow a player to use your containers, levers, beds, etc.         |
 | `/untrust [PlayerUsername]`        | Remove a player’s trust from a claim.                            |
 | `/trustlist`                       | Run it in a claim to see all players with trust.                  |
-| `/claimexplosion`                  | Toggles claim explosions. **This can cause damage to your claim.** |
+| `/claimexplosion`                  | Toggles claim explosions.**This can cause damage to your claim.** |
 
 ---
 
@@ -91,7 +91,8 @@
 | `/baltop`                             | Shows the wealth leaderboard                                                                                                    |
 | `/pay [username] [amount]`            | Pay another player directly.                                                                                                    |
 | `/ah`                                 | Opens the auction house.                                                                                                        |
-| `/ah sell [starting price]`           | Starts a auction with the item in your hand.                                                                                    |
+| `/ah auction [starting price]`        | Starts a auction with the item in your hand.                                                                                    |
+| `/ah sell [price]`                    | Put item in main hand up for**fixed-price** sale                                                                                |
 | `/voteshop`                           | Opens the shop you can spend Vote points at                                                                                     |
 | `/vote`                               | [Get a link to the vote sites.](/docs/Info/Voting)                                                                              |
 | `/vp`                                 | See how many votes till the next vote party                                                                                     |
