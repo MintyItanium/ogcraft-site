@@ -39,7 +39,7 @@ sidebar_position: 2
 | MC Server List           | [Vote on MC Server List](https://mc-server-list.com/server/485-ogcraft--119/)                         |
 | Minecraft MP             | [Vote on Minecraft MP](https://minecraft-mp.com/server-s273410)                                       |
 | Minecraft Server List    | [Vote on Minecraft Server List](https://minecraft-server-list.com/server/470624/)                     |
-| MinecraftServer.net      | [Vote on MinecraftServer.net](https://minecraft-server.net/details/OGCraft/)                          |
+| MinecraftServers.org      | [Vote on MinecraftServer.net]([https://minecraft-server.net/details/OGCraft/](https://minecraftservers.org/vote/687875))                          |
 | Minecraft Buzz           | [Vote on Minecraft Buzz](https://minecraft.buzz/server/1053)                                          |
 | TopG                     | [Vote on TopG](https://topg.org/minecraft-servers/server-657955)                                      |
 | Minecraft List           | [Vote on Minecraft List](https://minecraftlist.org/vote/18402)                                        |
