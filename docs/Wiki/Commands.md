@@ -12,27 +12,27 @@
 ## Gameplay & Utilities
 
 
-| Command                              | Description                                                                                        |
-| :------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| `/rules`                             | Display the server rules.                                                                          |
-| `/map`                               | [Link to our live web map.](https://map.ogcraft.org)                                               |
-| `/kit [kitname]`                     | Claim an available kit.                                                                            |
-| `/playtime`                          | Shows your playtime.                                                                               |
-| `/playtop [daily                     | weekly                                                                                             |
-| `/buyclaimblocks [amount of blocks]` | Purchase claim blocks for $2 per claim block.                                                      |
-| `/abandonclaim`                      | Deletes your land claim.                                                                           |
-| `/pvp`                               | Toggle PVP on or off.                                                                              |
-| `/pv [vault number]`                 | Open your Player Vault(s). Available at higher ranks.                                              |
-| `/speed [num 1-10]`                  | Set your speed to a number between 1-10. Available at higher ranks.                                |
-| `/god`                               | Enables "godmode" which stops you from taking damage or needing to eat. Available at higher ranks. |
-| `/top`                               | Puts you at the top of whatevers above you. Available at higher ranks.                             |
-| `/workbench` or `/craft` or `/wb`    | Opens a portable crafting table. Available at higher ranks.                                        |
-| `/mend`                              | Use XP to mend items. Available at higher ranks.                                                   |
-| `/enderchest` or `/ec`               | Open your Ender Chest. Available at Diamond rank.                                                  |
-| `/feed`                              | Restore your hunger to full. Available at higher ranks.                                            |
-| `/fly`                               | Toggle fly mode on or off. Available at Emerald rank.                                              |
-| `/ignore [player]`                   | Ignore/block messages from a specific player.                                                      |
-| `/resize`                            | Change your player size. Available at higher ranks.                                                |
+| Command                                      | Description                                                                                       |
+| :--------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| `/rules`                                     | Display the server rules.                                                                         |
+| `/map`                                       | [Link to our live web map.](https://map.ogcraft.org)                                              |
+| `/kit [kitname]`                             | Claim an available kit.                                                                           |
+| `/playtime`                                  | Shows your playtime.                                                                              |
+| `/playtop [daily/weekly/monthly/alltime]`    | Shows the playtime leaderboard.                                                                   |
+| `/buyclaimblocks [amount of blocks]`         | Purchase claim blocks for $1 per claim block.                                                     |
+| `/abandonclaim`                              | Deletes your land claim.                                                                          |
+| `/pvp`                                       | Toggle PVP on or off.                                                                             |
+| `/pv [vault number]`                         | Open your Player Vault(s). Available at higher ranks.                                             |
+| `/speed [num 1-10]`                          | Set your speed to a number between 1-10. Available at higher ranks.                               |
+| `/god`                                       | Enables "godmode" which stops you from taking damage or needing to eat. Available at higher ranks.|
+| `/top`                                       | Puts you at the top of whatevers above you. Available at higher ranks.                            |
+| `/workbench` or `/craft` or `/wb`            | Opens a portable crafting table. Available at higher ranks.                                       |
+| `/mend`                                      | Use XP to mend items. Available at higher ranks.                                                  |
+| `/enderchest` or `/ec`                       | Open your Ender Chest. Available at higher ranks.                                                 |
+| `/feed`                                      | Restore your hunger to full. Available at higher ranks.                                           |
+| `/fly`                                       | Toggle fly mode on or off. Available at higher ranks.                                             |
+| `/ignore [player]`                           | Ignore/block messages from a specific player.                                                     |
+| `/resize`                                    | Change your player size. Available at higher ranks.                                               |
 
 ---
 
