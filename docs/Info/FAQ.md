@@ -6,7 +6,7 @@ title: ❓ FAQs
 
 - [🏅 How do the ranks work?](#ranks)  
 - [💰 How do I make money on the server?](#money)  
-- [🛠 What is McMMO?](#mcmmo)  
+- [🛠 What is AuraSkills?](#auraskills)  
 - [🧭 How do player warps (PW) work?](#pwarps)  
 - [🚫 Dupe exploits?](#dupe-exploits)  
 - [🏠 How do claims work?](#claims)  
@@ -45,7 +45,15 @@ There are several ways to earn money:
 
 ---
 
-## MCMMO has been replaced by a new plugin. More info coming soon.
+## What is AuraSkills? {#auraskills}
+
+AuraSkills is a plugin that adds skills, stats, abilities, and other RPG-related features. Players level up skills by gaining XP through tasks such as farming, mining, fighting, enchanting, etc. 
+
+### How to check your progress
+
+Use `/skills` to pull up the AuraSkills GUI. You can click on each skill for more information or use `/[skill]` to pull up that skill's GUI menu instantly.
+
+For more information on AuraSkills, check our their wiki [here](https://wiki.aurelium.dev/auraskills/).
 
 ---
 
