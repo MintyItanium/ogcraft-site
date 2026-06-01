@@ -21,6 +21,7 @@ title: 👥 Staff Members
 - **Cola57_dg**
 - **Desiderata_**
 - **DaysGoneDead**
+- **SalubriousDave**
 
 ## Architects
 - **DaysGoneDead**
