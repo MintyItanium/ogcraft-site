@@ -12,7 +12,6 @@ title: 👥 Staff Members
 ## Admins
 - **Anneizzle**
 - **SwankopotamusRex**
-- **Lariatt_**
 
 ## Moderators
 - **Chuckiefunk** 
@@ -42,7 +41,7 @@ title: 👥 Staff Members
 ## Applying!
 We are always looking to add more moderators to our staff team. If you’d like to join us, 
 
-[apply for Staff here](https://forms.gle/u2bLo9nzfFyec6nW9).
+[apply for Staff here](https://forms.gle/u2bLo9nzfFyec6nW9)
 
 [apply for Developer Here](https://forms.gle/GJmZ3qsTTvSufYj17)
 
@@ -61,7 +60,8 @@ General Staff applications are open.
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
-- **NixStyx** — Former Admin 
+- **NixStyx** — Former Admin
+- **Lariatt_** — Former Admin
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
