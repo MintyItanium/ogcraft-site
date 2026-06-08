@@ -20,6 +20,10 @@ There will be three new sub-categories on the `/pwarp` menu:
 
 ## Generic Pwarp Rules
 
+We conduct a weekly review and purge of all player warps. Any pwarp that is not assigned to an appropriate category, or is not following the rules of the category it is placed in, will be removed during this process. Players are responsible for ensuring their pwarps remain compliant at all times.
+
+Players who have their pwarps removed will not be reimbursed the cost of pwarp creation.
+
 1. **Safety First**  
    - No hostile mobs allowed.  
    - Must be 100% claimed.  
@@ -46,6 +50,7 @@ There will be three new sub-categories on the `/pwarp` menu:
 
 - **Minimum Shops:** At least **10** distinct shops per Pwarp.  
 - **Stock Rule:** If more than **50%** of your shops are out of stock, a 7-day removal timer begins.
+- **Donation Boxs:** Things like $10,000 for 1 stick, which are made for donations, will not count towards the above mentioned minimum shop requirement.
 
 ---
 
