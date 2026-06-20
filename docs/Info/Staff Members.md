@@ -6,11 +6,10 @@ title: 👥 Staff Members
 
 ## Founders
 - **RedstoneSam** (“Sam”)
-- **mufkip** (“Stud”)
 - **\_roman_emperor_** (“Caleb”)
 
 ## Admins
-- **Anneizzle**
+- **anneizzle**
 - **SwankopotamusRex**
 
 ## Moderators
@@ -56,7 +55,8 @@ General Staff applications are open.
 ---
 
 ## Former Staff Members
-- **Chaos5705** — Retired Founder  
+- **Chaos5705** — Retired Founder
+- **mufkip** — Retired Founder
 - **Madaam_Ragnarok** — Former Admin  
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
@@ -69,7 +69,7 @@ General Staff applications are open.
 - **carolinecraft01** — Former Moderator  
 - **ElliottPlays** — Former Moderator  
 - **Jimidabob05** — Former Moderator
-- **Kumiko** — Former Moderator
+- **KumikoStickers** — Former Moderator
 
 ---
 
