@@ -7,7 +7,7 @@
 
 OGCraft is solely owned and operated by **Sam Jowett**, who retains full legal ownership, control, and final decision-making authority over all aspects of the server, its services, finances, and policies.
 
-Caleb and Collin act as volunteers/administrators. Their role is limited to assisting with day-to-day operations, moderation, technical input, and advisory support. They:
+Caleb acts as a volunteer/administrator. Their role is limited to assisting with day-to-day operations, moderation, technical input, and advisory support. They:
 
 - Hold no ownership stake in OGCraft  
 - Have no financial interest in OGCraft  
