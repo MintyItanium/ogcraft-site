@@ -11,6 +11,7 @@ title: 👥 Staff Members
 ## Admins
 - **anneizzle**
 - **SwankopotamusRex**
+-  **Lariatt_**
 
 ## Moderators
 - **Chuckiefunk** 
@@ -62,7 +63,6 @@ General Staff applications are open.
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
 - **NixStyx** — Former Admin
-- **Lariatt_** — Former Admin
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
