@@ -33,7 +33,7 @@ sidebar_position: 2
 | Site                     | Link                                                                                                  |
 |--------------------------|-------------------------------------------------------------------------------------------------------|
 | FindMCServer             | [Vote on FindMCServer](https://findmcserver.com/server/ogcraft?vote=true)                             |
-| Minerank                 | [Vote on Minerank](https://www.minerank.com/ogcraft/vote)                                             |
+| Minerank                 | [Vote on Minerank](https://www.minerank.com/ogcraft/vote#vote-now)                                             |
 | MCList                   | [Vote on MCList](https://mclist.io/server/63805/vote)                                                 |
 | Planet Minecraft         | [Vote on Planet Minecraft](https://www.planetminecraft.com/server/ogcraft-1-16-2/)                    |
 | MC Server List           | [Vote on MC Server List](https://mc-server-list.com/server/485-ogcraft--119/)                         |
