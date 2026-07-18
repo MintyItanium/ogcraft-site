@@ -6,7 +6,7 @@ const config = {
   tagline: '',
   favicon: 'img/OGCraft.svg',
 
-  url: 'https://wiki.ogcraft.org',
+  url: 'https://ogcraft.org',
   baseUrl: '/',
 
   organizationName: 'OGCraft',
@@ -81,6 +81,12 @@ const config = {
         {
           href: '/docs/Info/Voting',
           label: 'Voting',
+          position: 'left',
+          className: 'navbarDiscord',
+        },
+        {
+          href: '/download',
+          label: 'World Downloads',
           position: 'left',
           className: 'navbarDiscord',
         },
