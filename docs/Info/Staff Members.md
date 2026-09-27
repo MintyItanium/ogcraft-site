@@ -30,6 +30,7 @@ title: 👥 Staff Members
 - **Nimbrahil**
 - **Last_Freelancer**
 - **brugsewitte**
+- **Ruby_Galencia**
 
 ## Engineers
 - **RedstoneSam**
