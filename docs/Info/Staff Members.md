@@ -26,6 +26,10 @@ title: 👥 Staff Members
 - **ChunkyPumpkin**
 - **Silver_Seven**
 - **Darkeyke**
+- **Luiethelilac**
+- **Nimbrahil**
+- **Last_Freelancer**
+- **brugsewitte**
 
 ## Engineers
 - **RedstoneSam**
@@ -62,7 +66,7 @@ General Staff applications are open.
 - **Taco_Cat898** — Former Admin  
 - **DerrylHopkins** — Former Admin  
 - **ShadowVoid** — Former Admin  
-- **NixStyx** — Former Admin & architect
+- **NixStyx** — Former Admin & Architect
 - **oPqnda** — Former Moderator  
 - **_TheFlash** — Former Moderator  
 - **Rankork** — Former Moderator  
