@@ -283,8 +283,3 @@ Broken, inaccessible, abandoned, or permanently inactive Event Pwarps may be rem
 ---
  
 **Failure to comply with these rules may result in Pwarp removal. Any Pwarp removed for rule violations will NOT be refunded.**
-This area should display:
- 
-- Town information
-- Resident list
-- Any relevant town rules
