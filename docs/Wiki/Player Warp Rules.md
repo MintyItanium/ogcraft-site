@@ -140,6 +140,10 @@ Examples:
 #### Stock Requirement
  
 If 50% or more of a shop's inventory is out of stock, a 7-day removal timer begins.
+
+If you have buy chests, as in you are buying from players, and your balance means you cannot purchase those items, or the chests fill up and therefore cannot purchase those items, those shops are deemed "out of stock"
+
+If you have sell chests, as in you are selling to players, and your chests empty and therefore cannot make that purchase, those are deemed "out of stock" 
  
 #### Donation Boxes
  
