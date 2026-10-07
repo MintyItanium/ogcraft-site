@@ -40,37 +40,37 @@ export default function DownloadPage(): JSX.Element {
         <DownloadCard
           image={'img/map8.png'}
           title={'Map 8'}
-          years={'March 15, 2025 – May 23, 2026'}
+          years={'March 15th, 2025 – May 23rd, 2026'}
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
         />
         <DownloadCard
           image={'img/map7.png'}
           title={'Map 7'}
-          years={'May 4, 2024 – March 15, 2025'}
+          years={'May 4th, 2024 – March 15th, 2025'}
           href={'https://drive.usercontent.google.com/download?id=1nhYW-0X10hLM4CvD2rvcxuLenGQ1FN_H&export=download'}
         />
         <DownloadCard
           image={'img/map6.png'}
           title={'Map 6'}
-          years={'September 30, 2023 – May 3, 2024'}
+          years={'September 30th, 2023 – May 3rd, 2024'}
           href={'6'}
         />
         <DownloadCard
           image={'img/map5.png'}
           title={'Map 5'}
-          years={'April 7, 2023 – September 28, 2023'}
+          years={'April 7th, 2023 – September 28th, 2023'}
           href={'5'}
         />
         <DownloadCard
           image={'img/map4.png'}
           title={'Map 4'}
-          years={'??? – April 6, 2023'}
+          years={'July 30th, 2021 – April 6th, 2023'} // Seems really long considering there are 9 maps and the server is 6 years old. https://web.archive.org/web/20220121175300/http://ogcraft.org/forum/topic/60-ogcraft-august-2021-map-reset/
           href={'4'}
         />
         <DownloadCard
           image={'img/map3.png'}
           title={'Map 3'}
-          years={'??? – ???'}
+          years={'January 15th,2021 – July 30th, 2021'} // https://web.archive.org/web/20210509073232/https://ogcraft.org/forum/topic/4-ogcraft-reset-january-2020/
           href={'3'}
         />
 
