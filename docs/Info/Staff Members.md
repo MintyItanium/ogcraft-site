@@ -47,7 +47,7 @@ title: 👥 Staff Members
 ## Applying!
 We are always looking to add more moderators to our staff team. If you’d like to join us, 
 
-[apply for Staff here](https://forms.gle/u2bLo9nzfFyec6nW9)
+[apply for Moderation Staff here](https://forms.gle/u2bLo9nzfFyec6nW9)
 
 [apply for Developer Here](https://forms.gle/GJmZ3qsTTvSufYj17)
 
