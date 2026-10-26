@@ -39,6 +39,9 @@ export default function DownloadPage(): JSX.Element {
           years={'March 15, 2025 – May 23, 2026'}
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
         />
+        <div style={{ marginTop: '0.75rem', marginBottom: '1.5rem' }}>
+          <a href="/other/M8_PWs" className="button button--info button--sm">View Map 8 Player Warps</a>
+        </div>
         <DownloadCard
           image={'img/map7.png'}
           title={'Map 7'}
