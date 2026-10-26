@@ -8,7 +8,8 @@ const DownloadCard: React.FC<{
   title: string;
   years: string;
   href: string;
-}> = ({ image, title, years, href }) => {
+  afterDownload?: React.ReactNode;
+}> = ({ image, title, years, href, afterDownload }) => {
   const img = useBaseUrl(image);
   return (
     <div className={styles.card}>
@@ -19,6 +20,7 @@ const DownloadCard: React.FC<{
         <a className={`button button--primary ${styles.downloadButton}`} href={href} target="_blank" rel="noopener noreferrer">
           Download
         </a>
+        {afterDownload}
       </div>
     </div>
   );
@@ -38,10 +40,12 @@ export default function DownloadPage(): JSX.Element {
           title={'Map 8'}
           years={'March 15, 2025 – May 23, 2026'}
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
+          afterDownload={
+            <div style={{ marginTop: '0.75rem' }}>
+              <a href="/other/M8_PWs" className="button button--info button--sm">View Map 8 Player Warps</a>
+            </div>
+          }
         />
-        <div style={{ marginTop: '0.75rem', marginBottom: '1.5rem' }}>
-          <a href="/other/M8_PWs" className="button button--info button--sm">View Map 8 Player Warps</a>
-        </div>
         <DownloadCard
           image={'img/map7.png'}
           title={'Map 7'}
