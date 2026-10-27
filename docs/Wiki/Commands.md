@@ -119,8 +119,8 @@
 
 | Command               | Description                                      |
 | ----------------------- | -------------------------------------------------- |
-| `/mctop [skill name]` | Shows the leaderboard for a specific MCMMO skill |
-| `/mcrank`             | Shows your position on the MCMMO leaderbaords    |
+| `/skilltop [skill name]` | Shows the leaderboard for a specific skill |
+| `/skillrank`             | Shows your position on the skills leaderbaords    |
 | `/sit`                | Sit down on any surface                          |
 | `/crawl`              | Crawl like your under a trapdoor                 |
 | `/hat`                | Wear any item on your head                       |
