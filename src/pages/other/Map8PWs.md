@@ -46,7 +46,6 @@ These are the locations of the player warps from Map 8.
 | Firework   | 12236.5 83.0 -5525.9   | Overworld |
 | FlowerDyes | 5454.4 151.0 5118.5    | Overworld |
 | free       | -6826.5 65.0 6733.8    | Overworld |
-| free:D     | -6825.3 66.0 6748.6    | Overworld |
 | FreeRange  | -11718.8 70.0 -11744.5 | Overworld |
 | FriezaPots | -13933.7 78.0 -13614.6 | Overworld |
 | FrogCafe   | 7162.4 -13.0 -8872.3   | Overworld |
