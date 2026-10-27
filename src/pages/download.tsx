@@ -34,7 +34,10 @@ const DownloadCard: React.FC<{
   const img = useBaseUrl(image);
   return (
     <div className={styles.card}>
-      <img src={img} alt={title} className={styles.img} />
+      <div className={styles.imgContainer}>
+        <img src={img} alt={title} className={styles.img} />
+        {caption ? <div className={styles.caption}>{caption}</div> : null}
+      </div>
       <div className={styles.content}>
         <h2 style={{ margin: 0 }}>{title}</h2>
         <div className={styles.years}>{years}</div>
@@ -59,7 +62,7 @@ export default function DownloadPage(): JSX.Element {
         <DownloadCard
           image={'img/map8.png'}
           title={'Map 8'}
-          years={'March 15, 2025 – May 23, 2026'}
+          years={'March 15th, 2025 – May 23rd, 2026'}
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
           afterDownload={
             <div style={{ marginTop: '0.75rem' }}>
@@ -70,8 +73,32 @@ export default function DownloadPage(): JSX.Element {
         <DownloadCard
           image={'img/map7.png'}
           title={'Map 7'}
-          years={'May 4, 2024 – March 15, 2025'}
+          years={'May 4th, 2024 – March 15th, 2025'}
           href={'https://drive.usercontent.google.com/download?id=1nhYW-0X10hLM4CvD2rvcxuLenGQ1FN_H&export=download'}
+        />
+        <DownloadCard
+          image={'img/map6.png'}
+          title={'Map 6'}
+          years={'September 30th, 2023 – May 3rd, 2024'}
+          href={'6'}
+        />
+        <DownloadCard
+          image={'img/map5.png'}
+          title={'Map 5'}
+          years={'April 7th, 2023 – September 28th, 2023'}
+          href={'5'}
+        />
+        <DownloadCard
+          image={'img/map4.png'}
+          title={'Map 4'}
+          years={'July 30th, 2021 – April 6th, 2023'} // Seems really long considering there are 9 maps and the server is 6 years old. https://web.archive.org/web/20220121175300/http://ogcraft.org/forum/topic/60-ogcraft-august-2021-map-reset/
+          href={'4'}
+        />
+        <DownloadCard
+          image={'img/map3.png'}
+          title={'Map 3'}
+          years={'January 15th,2021 – July 30th, 2021'} // https://web.archive.org/web/20210509073232/https://ogcraft.org/forum/topic/4-ogcraft-reset-january-2020/
+          href={'3'}
         />
 
         <p style={{ marginTop: '2rem', color: '#666' }}>
