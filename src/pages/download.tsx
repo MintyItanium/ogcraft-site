@@ -42,7 +42,7 @@ export default function DownloadPage(): JSX.Element {
           href={'https://drive.usercontent.google.com/download?id=1ismLWK8M9MvIhlLq83r95kNwCXePzsoK&export=download'}
           afterDownload={
             <div style={{ marginTop: '0.75rem' }}>
-              <a href="/other/M8_PWs" className="button button--info button--sm">View Map 8 Player Warps</a>
+              <a href="/other/Map8PWs" className="button button--info button--sm">View Map 8 Player Warps</a>
             </div>
           }
         />
