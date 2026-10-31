@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/OGCraft.svg',
 
   url: 'https://ogcraft.org',
-  baseUrl: '/',
+  baseUrl: '/ogcraft-site/',
 
   organizationName: 'OGCraft',
   projectName: 'ogcraft-site',
